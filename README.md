@@ -7,5 +7,4 @@ Mon portfolio en ligne
 📄 Télécharger mon CV en PDF : https://anisaahsawadogo.github.io/Portolio-Anisaah-Sawadogo/cv-anisaah-sawadogo.pdf
 
 📄 Télécharger mon portfolio en PDF : [Télécharger](https://anisaahsawadogo.github.io/Portolio-Anisaah-Sawadogo/portfolio-anisaah-sawadogo.pdf)  
-📄 Télécharger mon CV en PDF : [Télécharger](https://anisaahsawadogo.github.io/Portolio-Anisaah-Sawadogo/cv-anisaah-sawadogo.pdf)  
-
+📄 Télécharger mon CV en PDF : [Télécharger](https://anisaahsawadogo.github.io/Portolio-Anisaah-Sawadogo/cv-anisaah-sawadogo.pdf)
